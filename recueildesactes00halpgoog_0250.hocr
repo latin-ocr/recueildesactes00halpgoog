@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./recueildesactes00halpgoog/recueildesactes00halpgoog_0250.png"; bbox 0 0 5084 6434; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 671 738 4597 792">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 671 738 4597 792">
+     <span class='ocr_line' id='line_1_1' title="bbox 671 738 4597 792; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 671 752 706 789; x_wconf 85' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_2' title='bbox 737 739 820 789; x_wconf 81' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_3' title='bbox 855 738 1194 789; x_wconf 77' lang='lat' dir='ltr'>Lethaire</span> <span class='ocrx_word' id='word_1_4' title='bbox 1227 744 1298 789; x_wconf 84' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_5' title='bbox 1331 739 1414 789; x_wconf 86' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_6' title='bbox 1449 739 1670 790; x_wconf 85' lang='lat' dir='ltr'>Louis</span> <span class='ocrx_word' id='word_1_7' title='bbox 1705 740 1781 788; x_wconf 87' lang='lat' dir='ltr'>V.</span> <span class='ocrx_word' id='word_1_8' title='bbox 4402 741 4499 791; x_wconf 85' lang='lat' dir='ltr'>Pl.</span> <span class='ocrx_word' id='word_1_9' title='bbox 4530 742 4597 792; x_wconf 92' lang='lat'>11</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 666 954 4636 5464">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 666 954 4636 5464">
+     <span class='ocr_line' id='line_1_2' title="bbox 666 954 4636 5464; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 666 954 4636 5464; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2005 5672 3251 5724">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2005 5672 3251 5724">
+     <span class='ocr_line' id='line_1_3' title="bbox 2005 5672 3251 5724; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 2005 5674 2360 5724; x_wconf 82' lang='lat' dir='ltr'>SCEAUX</span> <span class='ocrx_word' id='word_1_12' title='bbox 2413 5674 2533 5723; x_wconf 84' lang='lat' dir='ltr'>DU</span> <span class='ocrx_word' id='word_1_13' title='bbox 2588 5672 2739 5724; x_wconf 76' lang='lat' dir='ltr'>ROI</span> <span class='ocrx_word' id='word_1_14' title='bbox 2792 5674 3251 5724; x_wconf 73' lang='lat' dir='ltr'>LOTHAIRE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4144 6003 4677 6036">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4144 6003 4677 6036">
+     <span class='ocr_line' id='line_1_4' title="bbox 4144 6003 4677 6036; baseline 0 -1"><span class='ocrx_word' id='word_1_15' title='bbox 4144 6003 4191 6035; x_wconf 77' lang='lat'>1¹1.</span> <span class='ocrx_word' id='word_1_16' title='bbox 4208 6012 4227 6027; x_wconf 78' lang='lat'>¹¹</span> <span class='ocrx_word' id='word_1_17' title='bbox 4258 6012 4303 6035; x_wconf 65' lang='lat' dir='ltr'>{n</span> <span class='ocrx_word' id='word_1_18' title='bbox 4320 6018 4347 6035; x_wconf 79' lang='grc'>.-</span> <span class='ocrx_word' id='word_1_19' title='bbox 4370 6006 4541 6036; x_wconf 67' lang='lat' dir='ltr'>Unum-un!</span> <span class='ocrx_word' id='word_1_20' title='bbox 4578 6006 4677 6036; x_wconf 68' lang='grc' dir='ltr'>Ιιῐιι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
